@@ -1,24 +1,19 @@
 # pandas-challenge
 
 
-Player Count
-
-Total Number of Players
+Player Count: The total number of players
 
 
 Purchasing Analysis (Total)
-
-Number of Unique Items
-Average Purchase Price
-Total Number of Purchases
-Total Revenue
-
+  Number of Unique Items
+  Average Purchase Price
+  Total Number of Purchases
+  Total Revenue
 
 Gender Demographics
-
-Percentage and Count of Male Players
-Percentage and Count of Female Players
-Percentage and Count of Other / Non-Disclosed
+  Percentage and Count of Male Players
+  Percentage and Count of Female Players
+  Percentage and Count of Other / Non-Disclosed
 
 
 Purchasing Analysis (Gender)
