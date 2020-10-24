@@ -1,6 +1,6 @@
 # pandas-challenge
 
-In this challenge, I analyzed the fantasy game (Heroes of Pymoli) data for an independent gaming company. In the analysis, I broke down the game's purchasing data into meaningful insights, as stated in the different sections described below. The csv file (purchase_data.csv) containing the gaming data is saved in the resources folder, while the python pandas script used for the analysis and the report of the analysis are contained in the file named HeroesOfPymoli_starter.ipynb. 
+In this challenge, I analyzed the fantasy game (Heroes of Pymoli) data for an independent gaming company. In the analysis, I broke down the game's purchasing data into meaningful insights, as stated in the different sections described below. The csv file (purchase_data.csv) containing the gaming data is saved in the resources folder, while the python pandas script used for the analysis and the report of the analysis are contained in the file named HeroesOfPymoli_starter.ipynb. At the end, I discussed three observable trends based on the data.
 
 ***Player Count***
   - Total Number of Players
@@ -54,4 +54,4 @@ Identify the 5 most profitable items by total purchase value, then list (in a ta
   - Total Purchase Value
   
 ***Observable Trends Based on the Data***
-
+  1.  
