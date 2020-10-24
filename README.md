@@ -54,6 +54,6 @@ Identify the 5 most profitable items by total purchase value, then list (in a ta
   - Total Purchase Value
   
 ***Observable Trends Based on the Data***
-  - 1.  There are more male players (484) than female players (81).
+  - 1.  There are more male players (484 players) than female players (81 players).
   - 2.  Most players fall within the age range 20-24 (258 players).
-  - 3.  
+  - 3.  The most profitable game item is "Final Critic"	with a purchase count of 13 and total purchase value of	$59.99
