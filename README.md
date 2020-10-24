@@ -5,10 +5,10 @@ Player Count: The total number of players
 
 
 Purchasing Analysis (Total)
-  Number of Unique Items
-  Average Purchase Price
-  Total Number of Purchases
-  Total Revenue
+  - Number of Unique Items
+  - Average Purchase Price
+  - Total Number of Purchases
+  - Total Revenue
 
 Gender Demographics
   Percentage and Count of Male Players
