@@ -54,4 +54,5 @@ Identify the 5 most profitable items by total purchase value, then list (in a ta
   - Total Purchase Value
   
 ***Observable Trends Based on the Data***
-  1.  
+  - 1.  There are more male players (484) than female players (81).
+  - 2.
