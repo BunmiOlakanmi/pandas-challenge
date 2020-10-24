@@ -55,4 +55,5 @@ Identify the 5 most profitable items by total purchase value, then list (in a ta
   
 ***Observable Trends Based on the Data***
   - 1.  There are more male players (484) than female players (81).
-  - 2.
+  - 2.  Most players fall within the age range 20-24 (258 players).
+  - 3.  
